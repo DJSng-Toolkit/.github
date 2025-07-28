@@ -5,10 +5,14 @@
 📝 Members: [DJSng](https://github.com/djsng4)  
 
 
-# 👔 Let's learn more.  
+## 👔 Let's learn more.  
 
 DJSng's Toolkit (named after a private vanilla modpack started by the founder months prior) is an GitHub organization that hosts the optmization resource [Toolkit](https://github.com/DJSng-s-Toolkit/toolkit).  
 This organization is meant to host resources and other DJSng's Toolkit related projects.
+
+## Navigation
+[Click here to see what we have to offer!](https://github.com/DJSng-Toolkit/Index)  
+(the link above will redirect you to a GitHub repository)
 
 <!--
 
