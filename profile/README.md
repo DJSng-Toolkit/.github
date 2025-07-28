@@ -7,8 +7,10 @@
 
 ## 👔 Let's learn more.  
 
-DJSng's Toolkit (named after a private vanilla modpack started by the founder months prior) is an GitHub organization that hosts the optmization resource [Toolkit](https://github.com/DJSng-s-Toolkit/toolkit).  
-This organization is meant to host resources and other DJSng's Toolkit related projects.
+DJSng's Toolkit (named after a private vanilla modpack started by the founder months prior) is an GitHub organization that hosts resources curated by GitHub member [DJSng](https://github.com/djsng4). This organization is meant to host resources and other DJSng's Toolkit related projects.  
+
+The name comes from DJSng's private modpack "DJSng's Toolkit", which was a Minecraft modpack intended for Vanilla use. Our logo was generously designed by [AL-E](https://github.com/fem-al-e).
+
 
 ## Navigation
 [Click here to see what we have to offer!](https://github.com/DJSng-Toolkit/Index)  
