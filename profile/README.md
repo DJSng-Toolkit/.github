@@ -1,5 +1,5 @@
 ## Hi there 👋
-🖌 Icon artist: [DJSng](https://github.com/djsng4)  <!-- v2 logo should be credited under name "AL-E" and to GitHub account https://github.com/fem-al-e -->  
+🖌 Icon artist: [AL-E](https://github.com/fem-al-e)
 🚩 Founded by: [DJSng](https://github.com/djsng4)  
 🕘 Since: July 28th 2025  
 📝 Members: [DJSng](https://github.com/djsng4)  
