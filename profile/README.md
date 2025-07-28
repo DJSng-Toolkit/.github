@@ -1,7 +1,7 @@
 ## Hi there 👋
 🖌 Icon artist: [DJSng](https://github.com/djsng4)  
 🚩 Founded by: [DJSng](https://github.com/djsng4)  
-🕘 Since: July 28th 2025
+🕘 Since: July 28th 2025  
 📝 Members: [DJSng](https://github.com/djsng4)  
 
 
