@@ -1,5 +1,5 @@
 ## Hi there 👋
-🖌 Icon artist: [AL-E](https://github.com/fem-al-e)
+🖌 Icon artist: [AL-E](https://github.com/fem-al-e)  
 🚩 Founded by: [DJSng](https://github.com/djsng4)  
 🕘 Since: July 28th 2025  
 📝 Members: [DJSng](https://github.com/djsng4)  
