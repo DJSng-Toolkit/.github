@@ -13,8 +13,7 @@ The name comes from DJSng's private modpack "DJSng's Toolkit", which was a Minec
 
 
 ## Navigation
-[Click here to see what we have to offer!](https://github.com/DJSng-Toolkit/Index)  
-(the link above will redirect you to a GitHub repository)
+[Click here to see what we have to offer!]([https://github.com/DJSng-Toolkit/Index](https://djsng-toolkit.github.io/))  
 
 <!--
 
